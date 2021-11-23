@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Siheng Wei👋   
 
-<!--
-**Waysoning/Waysoning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm currently a Master of Science in Computer Science student at [Northeastern University(SV)][neuwebsite]
 
-Here are some ideas to get you started:
+🛎 Currently seeking for 2022 summer SDE Intern
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
+
+- 🖥 I’m currently working on school works
+- 📷 Hobby: Taking pictures, Playing basketball
+- 😄 Pronouns: He/Him
+- 💬 Good things are coming
+
+[website]: https://github.com/Waysoning/
+[neuwebsite]: https://www.northeastern.edu/
+[linkedin]: https://www.linkedin.com/in/siheng-wei
