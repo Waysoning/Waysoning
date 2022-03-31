@@ -4,13 +4,16 @@
 
 🛎 Currently seeking for 2022 summer SDE Intern
 
-### About Me [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
+### About Me
 
 - 🖥 I’m currently working on school works
 - 📷 Hobby: Taking pictures, Playing basketball
 - 😄 Pronouns: He/Him
 - 💬 Good things are coming
 
-[website]: https://github.com/Waysoning/
+### More
+[LinkedIn][linkedin] | [Portfolio][portfolio]
+
 [neuwebsite]: https://www.northeastern.edu/
 [linkedin]: https://www.linkedin.com/in/siheng-wei
+[portfolio]: https://waysoning.github.io/
