@@ -12,8 +12,15 @@
 - 💬 Good things are coming
 
 ### More
-[LinkedIn][linkedin] | [Portfolio][portfolio]
+[LinkedIn][linkedin] | [Instagram][instagram]
+
+### 📈 **My GitHub Stats:**
+<p>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=waysoning&show_icons=true&theme=radical&count_private=true&hide_border=true&hide=stars,issues" />
+    &nbsp;
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waysoning&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
 [neuwebsite]: https://www.northeastern.edu/
 [linkedin]: https://www.linkedin.com/in/siheng-wei
-[portfolio]: https://waysoning.github.io/
+[instagram]: https://www.instagram.com/waysoning/
