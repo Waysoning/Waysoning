@@ -16,9 +16,9 @@
 
 ### 📈 **My GitHub Stats:**
 <p>
-    <img height="160em" width="50%" src="https://github-readme-stats.vercel.app/api?username=waysoning&show_icons=true&theme=radical&count_private=true&hide_border=true&hide=stars,issues" />
+    <img height="160px" width="50%" src="https://github-readme-stats.vercel.app/api?username=waysoning&show_icons=true&theme=radical&count_private=true&hide_border=true&hide=stars,issues" />
     &nbsp;
-    <img height="160em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waysoning&layout=compact&theme=radical&hide_border=true"/>
+    <img height="160px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waysoning&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 [neuwebsite]: https://www.northeastern.edu/
