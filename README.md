@@ -2,7 +2,7 @@
 
 🔭 I'm currently a Master of Science in Computer Science student at [Northeastern University(SV)][neuwebsite]
 
-🛎 Currently seeking for SDE Intern in Fall 2022 or New Grad in 2023
+🛎 Currently seeking for SDE Intern in Spring 2023 or New Grad in 2023
 
 ### About Me
 
