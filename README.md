@@ -1,8 +1,8 @@
 ### Hi there, I'm Siheng Wei👋   
 
-🔭 I'm currently a Master of Science in Computer Science student at [Northeastern University(SV)][neuwebsite]
+🔭 I'm currently studying at [Northeastern University(SV)][neuwebsite] with a master’s degree in Computer Science.
 
-🛎 Currently seeking for SDE Intern in Spring 2023 or New Grad in 2023
+🛎 Actively seeking for SDE Internship / New Grad position in 2023
 
 ### About Me
 
