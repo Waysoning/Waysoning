@@ -2,7 +2,7 @@
 
 🔭 I'm currently studying at [Northeastern University(SV)][neuwebsite] with a master’s degree in Computer Science.
 
-🛎 Actively seeking for SDE Internship / New Grad position in 2023
+🛎 Actively seeking for SDE Internship and New Grad opportunities in 2023
 
 ### About Me
 
@@ -11,8 +11,7 @@
 - 😄 Pronouns: He/Him
 - 💬 Good things are coming
 
-### More
-[LinkedIn][linkedin] | [Instagram][instagram]
+> More on [LinkedIn][linkedin]
 
 ### 📈 **My GitHub Stats:**
 <p>
@@ -23,4 +22,3 @@
 
 [neuwebsite]: https://www.northeastern.edu/
 [linkedin]: https://www.linkedin.com/in/siheng-wei
-[instagram]: https://www.instagram.com/waysoning/
